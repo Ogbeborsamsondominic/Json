@@ -1,0 +1,14 @@
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.exe
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.deps.json
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.runtimeconfig.json
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.runtimeconfig.dev.json
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.dll
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\bin\Debug\netcoreapp3.1\ClassWork.pdb
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.csproj.AssemblyReference.cache
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.AssemblyInfo.cs
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.dll
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.pdb
+C:\Users\Ogbebor.S\Desktop\C# FOLDER\ClassWorkSaturday\ClassWork\obj\Debug\netcoreapp3.1\ClassWork.genruntimeconfig.cache
